@@ -8,7 +8,7 @@ Amy Mazzola : Josh Ransom : Mike Rosengrant : Danielle Vanica
 
 
 ## To Do
-[CLICK HERE!] (http://www.etondigital.com/wp-content/uploads/2008/05/google-app-engine.jpeg)
+[CLICK HERE!] (https://trello.com/b/xbIXXgV3/snagaflight)
 
 
 ## Software Requirements 
