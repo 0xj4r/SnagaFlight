@@ -3,13 +3,13 @@ SnagaFlight
 Amy Mazzola : Josh Ransom : Mike Rosengrant : Danielle Vanica
 
 
-Airline Reservation System developed in Java. 
+# Airline Reservation System developed in Java. 
 
 ## To Do
 [CLICK HERE!] (http://www.etondigital.com/wp-content/uploads/2008/05/google-app-engine.jpeg)
 
 
-Software Requirements: 
+## Software Requirements 
 
 
 In the Airline Reservation System provided to you, the application currently has provision to check for rates of travel for domestic as well as international flights from a particular location. This feature is available to the users without logging in to the application. 
