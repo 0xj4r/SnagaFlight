@@ -1,5 +1,7 @@
 SnagaFlight
 ===========
+Amy Mazzola : Josh Ransom : Mike Rosengrant : Danielle Vanica
+
 
 Airline Reservation System developed in Java. 
 
